@@ -1,0 +1,8 @@
+{
+  "name": "PyThrone: Tactical Python RPG",
+  "description": "A deep turn-based fantasy RPG with tactical combat, extensive character customization, talent trees, and real-time Python scripting engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
